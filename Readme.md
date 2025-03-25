@@ -37,7 +37,7 @@ This repository is a **comprehensive learning hub** for Java, Data Structures & 
 ## 🚀 **How to Use This Repository**  
 1️⃣ Clone the repo:  
 ```bash
-git clone https://github.com/your-username/Java-DSA-Learning.git
+git clone https://github.com/ZenShan27/Java-DSA-Learning.git
 ```
 2️⃣ Explore folders and Markdown files  
 3️⃣ Track progress by updating topics & committing changes  
